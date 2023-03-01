@@ -2,7 +2,7 @@
 
 ### Description:
 The main goal of this project is to create a resource where everyone can share coupons they don't need or to find some coupons they need.
-[Link](https://www.figma.com/file/hVtEUirDKTP2HfESEKrzmQ/ShareTheCoupo?node-id=0%3A1&t=wjyqDtPyB7limmD0-0) to figma mockup. 
+[Link](https://www.figma.com/file/hVtEUirDKTP2HfESEKrzmQ/ShareTheCoupo?node-id=521%3A198&t=bWCF8sZIFBnIc086-0) to figma mockup. 
 
 ### Main functions are:
 - Authorization.
