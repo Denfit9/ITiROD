@@ -31,6 +31,7 @@ The main goal of this project is to create a resource where everyone can share c
     - Author
     - ClaimedBy
     - ReusableOrOneoff
+    - UsesLeft
     
 - CategoryLink:
     - [FK] CouponID
