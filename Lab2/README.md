@@ -1,7 +1,7 @@
 # Coupon sharer website
 
 ### Description:
-The main goal of this project is to create a resource where everyone can share coupons they don't need or to find some coupons they need.
+The main goal of this project is to create a resource where everyone can share coupons they don't need or to find some coupons they need. As an example when you buy some keyboard set sometimes you may find some kind of a coupon for in-game bonuses and when you don't play this game as a good person you visit social medias and drop photos of this coupon. On this website people can exchange their coupons via much easier way.
 [Link](https://www.figma.com/file/hVtEUirDKTP2HfESEKrzmQ/ShareTheCoupo?node-id=521%3A198&t=bWCF8sZIFBnIc086-0) to figma mockup. 
 
 ### Main functions are:
