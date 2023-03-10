@@ -30,7 +30,7 @@ The main goal of this project is to create a resource where everyone can share c
     - Code
     - Author
     - ClaimedBy
-    - ReusableOrOneoff
+    - IsReusable
     - UsesLeft
     
 - CategoryLink:
