@@ -31,6 +31,9 @@ The main goal of this project is to create a resource where everyone can share c
     - Author
     - ClaimedBy
     - IsReusable
+    - IsInfinite
+    - IsLimitedByDate
+    - ActiveUntil
     - UsesLeft
     
 - CategoryLink:
